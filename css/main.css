@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-item {
+    text-align:center;
+    font-size: 1.1em;
+    padding: 1.5em;
+    color: white;
+    width: 50px;
+    border: solid 0.25em chartreuse;
+}
+.color1 {background-color: #675BA7;}
+.color2 {background-color: #9BC850;}
+.color3 {background-color: #A62E5C;}
+.color4 {background-color: #2A9FBC;}
+.color5 {background-color: #F15B2A;}
